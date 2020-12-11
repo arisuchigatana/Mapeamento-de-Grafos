@@ -1,0 +1,21 @@
+G 10
+A 3 0
+A 3 1
+A 3 2
+A 3 4
+A 3 5
+A 6 5
+A 6 8
+A 6 7
+A 8 9
+I 0 livro
+I 1 óculos
+I 2 pena
+I 3 arma
+I 4 lanterna
+I 5 faca
+I 6 bateria
+I 7 caneta
+I 8 borracha
+I 9 caderno
+P 9
